@@ -5,6 +5,8 @@ The test code for my TIP paper "Image Compressed Sensing using Convolutional Neu
 
 The training codes, the training data, and some pre-trained models are given. Please feel free to contact me if you have any questions. My email is wzhshi@hit.edu.cn
 
+To run the code, you should copy the file "bcs_init_rec_dag.m" in the folder "myLayers" into the folder "+dagnn" of your Matconvnet.
+
 If the code is useful to you, please cite our papers:
 
 @Article{shi2019image,
