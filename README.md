@@ -11,7 +11,9 @@ If the code is useful to you, please cite our papers:
   title={Image compressed sensing using convolutional neural network},
   author={Shi, Wuzhen and Jiang, Feng and Liu, shaohui and Zhao, Debin},
   journal={IEEE Transactions on Image Processing},
-  year={2019}
+  volume = {29},
+  pages = {375--388},
+  year={2020}
 }
 @inproceedings{shi2017deep,
   title={Deep networks for compressed image sensing},
